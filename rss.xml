@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Clippings]]></title>
         <description><![CDATA[Clippings]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/clippings/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 22 Nov 2015 16:45:30 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 22 Nov 2015 16:46:19 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/clippings/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Getting Started on The Grid]]></title>
+            <description><![CDATA[<article><h1>Getting Started on The Grid</h1><h2>Creating a Site</h2><p>Welcome to The Grid Beta, we’re excited to have you onboard! Here are a few quick tips to get you up and running. </p></article>]]></description>
+            <link>https://thegrid.ai/clippings/getting-started-on-the-grid/index.html</link>
+            <guid isPermaLink="false">1de2e6ea-895e-46ad-94a9-9cba25e21896</guid>
+            <pubDate>Sun, 22 Nov 2015 16:45:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Something to test</p>]]></description>
-            <link>undefined499196c4-9247-41fc-a58c-f65b425ac089/index.html</link>
+            <link>https://thegrid.ai/clippings/499196c4-9247-41fc-a58c-f65b425ac089/index.html</link>
             <guid isPermaLink="false">499196c4-9247-41fc-a58c-f65b425ac089</guid>
             <pubDate>Sun, 22 Nov 2015 16:45:20 GMT</pubDate>
         </item>
